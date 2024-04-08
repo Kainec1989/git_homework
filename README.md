@@ -9,7 +9,7 @@ more changes
 
 ## Command to check status
 
-Git status
+git status
 
 ## Command to check repository history
 
